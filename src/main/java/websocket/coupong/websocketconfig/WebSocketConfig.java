@@ -19,7 +19,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
     @Override
     public void registerStompEndpoints(StompEndpointRegistry registry) {
         registry.addEndpoint("/chat") // 엔드포인트 설정
-                .setAllowedOrigins("http://localhost:3000")
+                .setAllowedOrigins("http://localhost:3000","https://chatstomp.netlify.app")
                 .withSockJS();
     }
 }
