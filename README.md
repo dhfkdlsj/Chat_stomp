@@ -3,8 +3,6 @@
 
 > Spring Boot와 WebSocket을 활용한 **실시간 채팅 서버** 프로젝트입니다. WebSocket(SockJS, STOMP)을 사용하여 빠르고 효율적인 메시징 환경을 제공합니다.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ## 📌 주요 기능
 
@@ -14,9 +12,9 @@
 
 ## 🚀 기술 스택
 
-- **백엔드**: Java, Spring Boot
-- **WebSocket**: STOMP, SockJS
-- **의존성 관리**: Gradle
+- **백엔드**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- **WebSocket**: ![STOMP](https://img.shields.io/badge/STOMP-8C3B2C?style=for-the-badge&logo=javascript&logoColor=white) ![SockJS](https://img.shields.io/badge/SockJS-0A0A0A?style=for-the-badge&logo=javascript&logoColor=white)
+- **의존성 관리**: ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## 📡 WebSocket 엔드포인트
 
